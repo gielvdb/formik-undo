@@ -27,8 +27,8 @@
   "homepage": "https://github.com/OoDeLally/formik-undo#readme",
   "dependencies": {
     "formik": "^2.1.0",
-    "react": "^16.8.0",
-    "react-dom": "^16.13.1"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "rollup": "^2.9.0",
